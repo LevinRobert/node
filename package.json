@@ -2,9 +2,9 @@
   "name": "simple-node-server",
   "version": "1.0.0",
   "description": "Simple Node.js HTTP server",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "Your Name",
   "license": "MIT"
